@@ -15,3 +15,5 @@ Instructions:
 
 last line changed locally
 ### This is a REMOTE change :O
+
+![This is a picture of a glass of water](recipe.jpg)
