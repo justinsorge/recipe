@@ -1,3 +1,7 @@
+# this is a new Level 1 Heading
+
+### This is a new Level 3 heading
+
 ### This is a LOCAL change :)
 # recipe
 line 2 changed remotely
